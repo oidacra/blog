@@ -5,6 +5,7 @@ seoDescription: "Master NgRx ComponentStore with this practical guide: learn bas
 datePublished: Thu Dec 28 2023 21:18:57 GMT+0000 (Coordinated Universal Time)
 cuid: clqppjfah000108jycrbf2m3l
 slug: a-practical-guide-to-ngrx-componentstore-managing-localcomponent-states
+canonical: https://medium.com/@oidacra/a-practical-guide-to-ngrx-componentstore-managing-local-component-states-ceee619cba2c
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/NIJuEQw0RKg/upload/cf5028f82c3e2853d70f6b9df8836e0e.jpeg
 tags: angular, rxjs, ngrx, component-store
 
