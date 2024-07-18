@@ -3,6 +3,7 @@ title: "Utilize Github Actions for Angular App Deployment on Firebase Hosting"
 datePublished: Thu Jan 25 2024 01:17:43 GMT+0000 (Coordinated Universal Time)
 cuid: clrsiygzf000309jrdxsabf5p
 slug: utilize-github-actions-for-angular-app-deployment-on-firebase-hosting
+canonical: https://medium.com/@oidacra/utilize-github-actions-for-angular-app-deployment-on-firebase-hosting-e13ba3e4bb8a
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/OHOU-5UVIYQ/upload/df423d99e2ff025c1b788d70c6854ae9.jpeg
 tags: angular, nx, github-actions, firebase-hosting
 
